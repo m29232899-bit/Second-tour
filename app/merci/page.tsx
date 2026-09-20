@@ -13,13 +13,13 @@ export default function Merci() {
           <div className="flex gap-3"><span className="bg-slate-900 text-white w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold shrink-0">3</span><p><b>Tu scannes la 1ère fiche</b> en 5s au comptoir. On s'occupe du reste à J+90.</p></div>
         </div>
 
-        <a href="https://wa.me/33600000000?text=Salut%20Second%20Tour%20!%20Je%20viens%20de%20payer%20les%2025%E2%82%AC%2C%20mon%20agence%20est%20%3A" className="mt-6 flex w-full justify-center bg-[#25D366] text-white font-bold py-4 rounded-full text-[18px]">WhatsApp : Activer mon agence</a>
+        <a href="https://wa.me/33784786215?text=Salut%20Second%20Tour%20!%20Je%20viens%20de%20payer%20les%2025%E2%82%AC%2C%20mon%20agence%20est%20%3A" className="mt-6 flex w-full justify-center bg-[#25D366] text-white font-bold py-4 rounded-full text-[18px]">WhatsApp : 07 84 78 62 15</a>
         <p className="text-center text-[11px] mt-3 opacity-60">Réponse en moins de 2h • 7j/7</p>
       </div>
 
       <div className="mt-8 bg-slate-900 text-white rounded-[24px] p-6">
-        <p className="text-sm opacity-80">Reçu par email : taouil.s77@yahoo.com</p>
-        <p className="text-[11px] mt-2 opacity-50">Facture Stripe envoyée automatiquement. Sans engagement, résiliable en 1 clic.</p>
+        <p className="text-sm opacity-80">Ton abonnement est actif. Facture envoyée par Stripe.</p>
+        <p className="text-[11px] mt-2 opacity-50">Sans engagement, résiliable en 1 clic depuis ton espace Stripe.</p>
       </div>
 
       <a href="/" className="mt-8 block text-center text-sm opacity-60">← Retour à l'accueil</a>
