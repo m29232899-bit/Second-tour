@@ -1,4 +1,3 @@
-import "./globals.css"
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#FFFBF5] text-slate-800 px-6 py-10 max-w-[480px] mx-auto">
