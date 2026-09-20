@@ -12,7 +12,7 @@ export default function Home() {
           <li>✓ Compteur en € récupérés</li>
           <li>✓ 0 saisie • 0 RGPD : vous envoyez</li>
         </ul>
-        <a href=https://buy.stripe.com/aFa5kCeNcfmRdmp6hzffy01..." className="mt-6 flex w-full justify-center bg-[#F06A2E] text-white font-bold py-4 rounded-full text-[18px]">Activer - 25€/mois</a>
+        <a href=https://buy.stripe.com/bJe7sK0WmcaFbeh5dvffy02" className="mt-6 flex w-full justify-center bg-[#F06A2E] text-white font-bold py-4 rounded-full text-[18px]">Activer - 25€/mois</a>
         <p className="text-center text-[11px] mt-3 opacity-60">Sans engagement • Installé en 5 min</p>
       </div>
       <div className="mt-10">
